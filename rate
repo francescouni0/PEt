@@ -1,0 +1,87 @@
+VALORI DI RATE :
+
+SOGLIA_B=191mV 	SOGLIA_A=465mV			VOLTAGGIO=950V
+
+{'cnc_a': 4, 'dly_a': 0, 'cfd_a': 5646, 'cnc_b': 4, 'dly_b': 0, 'cfd_b': 5931}
+{'cnc_a': 4, 'dly_a': 0, 'cfd_a': 5742, 'cnc_b': 4, 'dly_b': 1, 'cfd_b': 5888}
+{'cnc_a': 5, 'dly_a': 2, 'cfd_a': 5599, 'cnc_b': 5, 'dly_b': 1, 'cfd_b': 5865}
+{'cnc_a': 5, 'dly_a': 1, 'cfd_a': 5531, 'cnc_b': 5, 'dly_b': 1, 'cfd_b': 5907}
+{'cnc_a': 5, 'dly_a': 1, 'cfd_a': 5612, 'cnc_b': 5, 'dly_b': 0, 'cfd_b': 5912}
+
+
+SOGLIA_B=97mV	SOGLIA_A=465mV			VOLTAGGIO=950V 
+{'cnc_a': 8, 'dly_a': 1, 'cfd_a': 5607, 'cnc_b': 8, 'dly_b': 1, 'cfd_b': 10667}
+{'cnc_a': 3, 'dly_a': 0, 'cfd_a': 5566, 'cnc_b': 3, 'dly_b': 1, 'cfd_b': 6537}
+{'cnc_a': 5, 'dly_a': 0, 'cfd_a': 5654, 'cnc_b': 5, 'dly_b': 0, 'cfd_b': 6961}
+{'cnc_a': 9, 'dly_a': 0, 'cfd_a': 5559, 'cnc_b': 9, 'dly_b': 0, 'cfd_b': 6751}
+{'cnc_a': 11, 'dly_a': 0, 'cfd_a': 5720, 'cnc_b': 11, 'dly_b': 1, 'cfd_b': 6930}
+
+
+SOGLIA_B=250mV	SOGLIA_A=465mV			VOLTAGGIO=950V 
+{'cnc_a': 4, 'dly_a': 2, 'cfd_a': 5684, 'cnc_b': 4, 'dly_b': 1, 'cfd_b': 5880}
+{'cnc_a': 7, 'dly_a': 0, 'cfd_a': 5626, 'cnc_b': 7, 'dly_b': 0, 'cfd_b': 5828}
+{'cnc_a': 8, 'dly_a': 0, 'cfd_a': 5686, 'cnc_b': 8, 'dly_b': 1, 'cfd_b': 5792}
+{'cnc_a': 5, 'dly_a': 0, 'cfd_a': 5575, 'cnc_b': 5, 'dly_b': 0, 'cfd_b': 5720}
+{'cnc_a': 7, 'dly_a': 1, 'cfd_a': 5774, 'cnc_b': 7, 'dly_b': 0, 'cfd_b': 5779}
+
+SOGLIA_B=35mV	SOGLIA_A=465mV			VOLTAGGIO=950V (cambiando la soglia di arm si acquisisce più spettro, se si scende troppo si rischia di prendere la baseline)
+{'cnc_a': 5, 'dly_a': 3, 'cfd_a': 5726, 'cnc_b': 5, 'dly_b': 1, 'cfd_b': 11878}
+{'cnc_a': 5, 'dly_a': 4, 'cfd_a': 5577, 'cnc_b': 5, 'dly_b': 4, 'cfd_b': 12303}
+{'cnc_a': 4, 'dly_a': 0, 'cfd_a': 5741, 'cnc_b': 4, 'dly_b': 2, 'cfd_b': 12135}
+{'cnc_a': 8, 'dly_a': 2, 'cfd_a': 5617, 'cnc_b': 8, 'dly_b': 2, 'cfd_b': 12579}
+{'cnc_a': 5, 'dly_a': 3, 'cfd_a': 5667, 'cnc_b': 5, 'dly_b': 2, 'cfd_b': 12678}
+
+SOGLIA_B=35mV	SOGLIA_A=35mV			VOLTAGGIO=850V (è possibile che contino diversamente per la diversa configurazione del ramo di walk)
+{'cnc_a': 0, 'dly_a': 0, 'cfd_a': 1583, 'cnc_b': 0, 'dly_b': 0, 'cfd_b': 5878}
+{'cnc_a': 0, 'dly_a': 0, 'cfd_a': 1572, 'cnc_b': 0, 'dly_b': 0, 'cfd_b': 5771}
+{'cnc_a': 0, 'dly_a': 0, 'cfd_a': 1104, 'cnc_b': 0, 'dly_b': 0, 'cfd_b': 5832}
+{'cnc_a': 1, 'dly_a': 0, 'cfd_a': 1082, 'cnc_b': 1, 'dly_b': 0, 'cfd_b': 5863}
+{'cnc_a': 1, 'dly_a': 0, 'cfd_a': 1045, 'cnc_b': 1, 'dly_b': 0, 'cfd_b': 5856}
+
+
+SOGLIA_B=35mV	SOGLIA_A=35mV			VOLTAGGIO=750V
+{'cnc_a': 0, 'dly_a': 0, 'cfd_a': 3, 'cnc_b': 0, 'dly_b': 0, 'cfd_b': 4837}
+{'cnc_a': 0, 'dly_a': 0, 'cfd_a': 2, 'cnc_b': 0, 'dly_b': 0, 'cfd_b': 4619}
+{'cnc_a': 0, 'dly_a': 0, 'cfd_a': 2, 'cnc_b': 0, 'dly_b': 0, 'cfd_b': 4784}
+{'cnc_a': 0, 'dly_a': 0, 'cfd_a': 2, 'cnc_b': 0, 'dly_b': 0, 'cfd_b': 4582}
+{'cnc_a': 0, 'dly_a': 0, 'cfd_a': 3, 'cnc_b': 0, 'dly_b': 0, 'cfd_b': 4736}
+
+
+SOGLIA_B=35mV	SOGLIA_A=35mV			VOLTAGGIO=1000V
+{'cnc_a': 14, 'dly_a': 7, 'cfd_a': 5774, 'cnc_b': 14, 'dly_b': 7, 'cfd_b': 91433}
+{'cnc_a': 9, 'dly_a': 6, 'cfd_a': 5703, 'cnc_b': 9, 'dly_b': 14, 'cfd_b': 88774}
+{'cnc_a': 8, 'dly_a': 7, 'cfd_a': 5694, 'cnc_b': 8, 'dly_b': 10, 'cfd_b': 73799}
+{'cnc_a': 17, 'dly_a': 8, 'cfd_a': 5907, 'cnc_b': 17, 'dly_b': 16, 'cfd_b': 88118}
+{'cnc_a': 18, 'dly_a': 10, 'cfd_a': 5837, 'cnc_b': 18, 'dly_b': 8, 'cfd_b': 86621}
+
+
+SOGLIA_B=150mV	SOGLIA_A=150mV			VOLTAGGIO=950V
+{'cnc_b': 2, 'cfd_b': 6694, 'dly_a': 0, 'dly_b': 0, 'cfd_a': 5998, 'cnc_a': 2}
+{'cnc_b': 8, 'cfd_b': 6729, 'dly_a': 2, 'dly_b': 1, 'cfd_a': 6011, 'cnc_a': 8}
+{'cnc_b': 15, 'cfd_b': 6845, 'dly_a': 0, 'dly_b': 2, 'cfd_a': 5997, 'cnc_a': 15}
+{'cnc_b': 4, 'cfd_b': 6994, 'dly_a': 0, 'dly_b': 0, 'cfd_a': 6100, 'cnc_a': 4}
+{'cnc_b': 9, 'cfd_b': 6311, 'dly_a': 2, 'dly_b': 0, 'cfd_a': 5956, 'cnc_a': 9}
+
+
+SOGLIA_B=150mV	SOGLIA_A=150mV			VOLTAGGIO=750V
+{'cnc_b': 0, 'cfd_b': 4609, 'dly_a': 0, 'dly_b': 1, 'cfd_a': 5309, 'cnc_a': 0}
+{'cnc_b': 0, 'cfd_b': 4566, 'dly_a': 0, 'dly_b': 0, 'cfd_a': 5234, 'cnc_a': 0}
+{'cnc_b': 2, 'cfd_b': 4620, 'dly_a': 0, 'dly_b': 0, 'cfd_a': 5189, 'cnc_a': 2}
+{'cnc_b': 0, 'cfd_b': 4525, 'dly_a': 0, 'dly_b': 0, 'cfd_a': 5319, 'cnc_a': 0}
+{'cnc_b': 0, 'cfd_b': 4558, 'dly_a': 1, 'dly_b': 0, 'cfd_a': 5288, 'cnc_a': 0}
+
+
+SOGLIA_B=150mV	SOGLIA_A=150mV			VOLTAGGIO=800V
+{'cnc_b': 76, 'cfd_b': 5800, 'dly_a': 0, 'dly_b': 0, 'cfd_a': 5872, 'cnc_a': 76}
+{'cnc_b': 70, 'cfd_b': 5695, 'dly_a': 0, 'dly_b': 2, 'cfd_a': 5810, 'cnc_a': 70}
+{'cnc_b': 79, 'cfd_b': 5687, 'dly_a': 0, 'dly_b': 1, 'cfd_a': 5859, 'cnc_a': 79}
+{'cnc_b': 69, 'cfd_b': 5674, 'dly_a': 1, 'dly_b': 4, 'cfd_a': 5744, 'cnc_a': 69}
+{'cnc_b': 71, 'cfd_b': 5697, 'dly_a': 1, 'dly_b': 0, 'cfd_a': 5645, 'cnc_a': 71}
+
+
+
+
+
+
+
+
